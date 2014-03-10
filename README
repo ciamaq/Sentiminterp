@@ -1,3 +1,1 @@
-This program uses the "SEMEVAL '13" dataset to train a supervised learning algorithm along with lexicon of
-more than 8000 words (The Subjectivity Sense Annotations - available on mpqa.cs.pitt.edu) which are labelled
-based on their prior polarity (out of context) to classify tweets as positive or negative.
+This program uses the "SEMEVAL '13" dataset to train a supervised learning algorithm along with lexicon of more than 8000 words (The Subjectivity Sense Annotations - available on mpqa.cs.pitt.edu) which are labelled based on their prior polarity (out of context) to classify tweets as positive or negative.
